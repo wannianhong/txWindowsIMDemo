@@ -7,3 +7,4 @@
 ## TIMSDK for Windows
 
 ![Image text](https://github.com/wannianhong/txWindowsIMDemo/blob/master/1.PNG)
+![Image text](https://github.com/wannianhong/txWindowsIMDemo/blob/master/2.PNG)
