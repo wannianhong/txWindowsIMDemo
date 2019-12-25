@@ -1,0 +1,288 @@
+﻿  jsoncpp.cpp
+  crashdump.cpp
+  HttpClient.cpp
+D:\Project\TIMSDK\TIMSDK-master\cross-platform\Windows\IMApp\common\Base.h(17,91): warning C4267: “参数”: 从“size_t”转换到“int”，可能丢失数据
+D:\Project\TIMSDK\TIMSDK-master\cross-platform\Windows\IMApp\common\Base.h(25,91): warning C4267: “参数”: 从“size_t”转换到“int”，可能丢失数据
+D:\Project\TIMSDK\TIMSDK-master\cross-platform\Windows\IMApp\common\Base.h(33,90): warning C4267: “参数”: 从“size_t”转换到“int”，可能丢失数据
+D:\Project\TIMSDK\TIMSDK-master\cross-platform\Windows\IMApp\common\Base.h(41,90): warning C4267: “参数”: 从“size_t”转换到“int”，可能丢失数据
+D:\Project\TIMSDK\TIMSDK-master\cross-platform\Windows\IMApp\common\Base.h(49,103): warning C4267: “参数”: 从“size_t”转换到“int”，可能丢失数据
+D:\Project\TIMSDK\TIMSDK-master\cross-platform\Windows\IMApp\common\Base.h(57,103): warning C4267: “参数”: 从“size_t”转换到“int”，可能丢失数据
+D:\Project\TIMSDK\TIMSDK-master\cross-platform\Windows\IMApp\common\Base.h(65,102): warning C4267: “参数”: 从“size_t”转换到“int”，可能丢失数据
+D:\Project\TIMSDK\TIMSDK-master\cross-platform\Windows\IMApp\common\Base.h(73,102): warning C4267: “参数”: 从“size_t”转换到“int”，可能丢失数据
+D:\Project\TIMSDK\TIMSDK-master\cross-platform\Windows\IMApp\common\HttpClient.cpp(269,49): warning C4267: “=”: 从“size_t”转换到“DWORD”，可能丢失数据
+D:\Project\TIMSDK\TIMSDK-master\cross-platform\Windows\IMApp\common\HttpClient.cpp(271,47): warning C4267: “=”: 从“size_t”转换到“DWORD”，可能丢失数据
+D:\Project\TIMSDK\TIMSDK-master\cross-platform\Windows\IMApp\common\HttpClient.cpp(314,27): warning C4267: “参数”: 从“size_t”转换到“DWORD”，可能丢失数据
+D:\Project\TIMSDK\TIMSDK-master\cross-platform\Windows\IMApp\common\HttpClient.cpp(321,27): warning C4267: “参数”: 从“size_t”转换到“DWORD”，可能丢失数据
+  HttpReportRequest.cpp
+D:\Project\TIMSDK\TIMSDK-master\cross-platform\Windows\IMApp\common\Base.h(17,91): warning C4267: “参数”: 从“size_t”转换到“int”，可能丢失数据
+D:\Project\TIMSDK\TIMSDK-master\cross-platform\Windows\IMApp\common\Base.h(25,91): warning C4267: “参数”: 从“size_t”转换到“int”，可能丢失数据
+D:\Project\TIMSDK\TIMSDK-master\cross-platform\Windows\IMApp\common\Base.h(33,90): warning C4267: “参数”: 从“size_t”转换到“int”，可能丢失数据
+D:\Project\TIMSDK\TIMSDK-master\cross-platform\Windows\IMApp\common\Base.h(41,90): warning C4267: “参数”: 从“size_t”转换到“int”，可能丢失数据
+D:\Project\TIMSDK\TIMSDK-master\cross-platform\Windows\IMApp\common\Base.h(49,103): warning C4267: “参数”: 从“size_t”转换到“int”，可能丢失数据
+D:\Project\TIMSDK\TIMSDK-master\cross-platform\Windows\IMApp\common\Base.h(57,103): warning C4267: “参数”: 从“size_t”转换到“int”，可能丢失数据
+D:\Project\TIMSDK\TIMSDK-master\cross-platform\Windows\IMApp\common\Base.h(65,102): warning C4267: “参数”: 从“size_t”转换到“int”，可能丢失数据
+D:\Project\TIMSDK\TIMSDK-master\cross-platform\Windows\IMApp\common\Base.h(73,102): warning C4267: “参数”: 从“size_t”转换到“int”，可能丢失数据
+  HttpServer.cpp
+D:\Project\TIMSDK\TIMSDK-master\cross-platform\Windows\IMApp\common\HttpServer.cpp(216,54): warning C4244: “参数”: 从“DWORD”转换到“USHORT”，可能丢失数据
+  IMUtil.cpp
+D:\Project\TIMSDK\TIMSDK-master\cross-platform\Windows\IMApp\common\IMUtil.cpp(45,42): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+D:\Project\TIMSDK\TIMSDK-master\cross-platform\Windows\IMApp\common\IMUtil.cpp(46,30): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+  log.cpp
+  TaskQueue.cpp
+  GenerateTestUserSig.cpp
+D:\Project\TIMSDK\TIMSDK-master\cross-platform\Windows\IMApp\common\Base.h(17,91): warning C4267: “参数”: 从“size_t”转换到“int”，可能丢失数据
+D:\Project\TIMSDK\TIMSDK-master\cross-platform\Windows\IMApp\common\Base.h(25,91): warning C4267: “参数”: 从“size_t”转换到“int”，可能丢失数据
+D:\Project\TIMSDK\TIMSDK-master\cross-platform\Windows\IMApp\common\Base.h(33,90): warning C4267: “参数”: 从“size_t”转换到“int”，可能丢失数据
+D:\Project\TIMSDK\TIMSDK-master\cross-platform\Windows\IMApp\common\Base.h(41,90): warning C4267: “参数”: 从“size_t”转换到“int”，可能丢失数据
+D:\Project\TIMSDK\TIMSDK-master\cross-platform\Windows\IMApp\common\Base.h(49,103): warning C4267: “参数”: 从“size_t”转换到“int”，可能丢失数据
+D:\Project\TIMSDK\TIMSDK-master\cross-platform\Windows\IMApp\common\Base.h(57,103): warning C4267: “参数”: 从“size_t”转换到“int”，可能丢失数据
+D:\Project\TIMSDK\TIMSDK-master\cross-platform\Windows\IMApp\common\Base.h(65,102): warning C4267: “参数”: 从“size_t”转换到“int”，可能丢失数据
+D:\Project\TIMSDK\TIMSDK-master\cross-platform\Windows\IMApp\common\Base.h(73,102): warning C4267: “参数”: 从“size_t”转换到“int”，可能丢失数据
+  IMWnd.cpp
+D:\Project\TIMSDK\TIMSDK-master\cross-platform\Windows\IMApp\common\Base.h(17,91): warning C4267: “参数”: 从“size_t”转换到“int”，可能丢失数据
+D:\Project\TIMSDK\TIMSDK-master\cross-platform\Windows\IMApp\common\Base.h(25,91): warning C4267: “参数”: 从“size_t”转换到“int”，可能丢失数据
+D:\Project\TIMSDK\TIMSDK-master\cross-platform\Windows\IMApp\common\Base.h(33,90): warning C4267: “参数”: 从“size_t”转换到“int”，可能丢失数据
+D:\Project\TIMSDK\TIMSDK-master\cross-platform\Windows\IMApp\common\Base.h(41,90): warning C4267: “参数”: 从“size_t”转换到“int”，可能丢失数据
+D:\Project\TIMSDK\TIMSDK-master\cross-platform\Windows\IMApp\common\Base.h(49,103): warning C4267: “参数”: 从“size_t”转换到“int”，可能丢失数据
+D:\Project\TIMSDK\TIMSDK-master\cross-platform\Windows\IMApp\common\Base.h(57,103): warning C4267: “参数”: 从“size_t”转换到“int”，可能丢失数据
+D:\Project\TIMSDK\TIMSDK-master\cross-platform\Windows\IMApp\common\Base.h(65,102): warning C4267: “参数”: 从“size_t”转换到“int”，可能丢失数据
+D:\Project\TIMSDK\TIMSDK-master\cross-platform\Windows\IMApp\common\Base.h(73,102): warning C4267: “参数”: 从“size_t”转换到“int”，可能丢失数据
+  LoginWnd.cpp
+D:\Project\TIMSDK\TIMSDK-master\cross-platform\Windows\IMApp\IMApp\LoginWnd.cpp(1,1): warning C4828: 文件包含在偏移 0x1e6 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+D:\Project\TIMSDK\TIMSDK-master\cross-platform\Windows\IMApp\IMApp\LoginWnd.cpp(1,1): warning C4828: 文件包含在偏移 0x1e7 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+D:\Project\TIMSDK\TIMSDK-master\cross-platform\Windows\IMApp\IMApp\LoginWnd.cpp(1,1): warning C4828: 文件包含在偏移 0x1e9 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+D:\Project\TIMSDK\TIMSDK-master\cross-platform\Windows\IMApp\IMApp\LoginWnd.cpp(1,1): warning C4828: 文件包含在偏移 0x46d 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+D:\Project\TIMSDK\TIMSDK-master\cross-platform\Windows\IMApp\IMApp\LoginWnd.cpp(1,1): warning C4828: 文件包含在偏移 0x46e 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+D:\Project\TIMSDK\TIMSDK-master\cross-platform\Windows\IMApp\IMApp\LoginWnd.cpp(1,1): warning C4828: 文件包含在偏移 0x472 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+D:\Project\TIMSDK\TIMSDK-master\cross-platform\Windows\IMApp\IMApp\LoginWnd.cpp(1,1): warning C4828: 文件包含在偏移 0x480 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+D:\Project\TIMSDK\TIMSDK-master\cross-platform\Windows\IMApp\IMApp\LoginWnd.cpp(1,1): warning C4828: 文件包含在偏移 0x481 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+D:\Project\TIMSDK\TIMSDK-master\cross-platform\Windows\IMApp\IMApp\LoginWnd.cpp(1,1): warning C4828: 文件包含在偏移 0x485 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+D:\Project\TIMSDK\TIMSDK-master\cross-platform\Windows\IMApp\IMApp\LoginWnd.cpp(1,1): warning C4828: 文件包含在偏移 0x4eb 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+D:\Project\TIMSDK\TIMSDK-master\cross-platform\Windows\IMApp\IMApp\LoginWnd.cpp(1,1): warning C4828: 文件包含在偏移 0x4ec 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+D:\Project\TIMSDK\TIMSDK-master\cross-platform\Windows\IMApp\IMApp\LoginWnd.cpp(1,1): warning C4828: 文件包含在偏移 0x4ed 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+D:\Project\TIMSDK\TIMSDK-master\cross-platform\Windows\IMApp\IMApp\LoginWnd.cpp(1,1): warning C4828: 文件包含在偏移 0x4ef 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+D:\Project\TIMSDK\TIMSDK-master\cross-platform\Windows\IMApp\IMApp\LoginWnd.cpp(1,1): warning C4828: 文件包含在偏移 0x4f1 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+D:\Project\TIMSDK\TIMSDK-master\cross-platform\Windows\IMApp\IMApp\LoginWnd.cpp(1,1): warning C4828: 文件包含在偏移 0x4f2 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+D:\Project\TIMSDK\TIMSDK-master\cross-platform\Windows\IMApp\IMApp\LoginWnd.cpp(1,1): warning C4828: 文件包含在偏移 0x4f3 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+D:\Project\TIMSDK\TIMSDK-master\cross-platform\Windows\IMApp\IMApp\LoginWnd.cpp(1,1): warning C4828: 文件包含在偏移 0x4f4 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+D:\Project\TIMSDK\TIMSDK-master\cross-platform\Windows\IMApp\IMApp\LoginWnd.cpp(1,1): warning C4828: 文件包含在偏移 0x4f6 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+D:\Project\TIMSDK\TIMSDK-master\cross-platform\Windows\IMApp\IMApp\LoginWnd.cpp(1,1): warning C4828: 文件包含在偏移 0x878 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+D:\Project\TIMSDK\TIMSDK-master\cross-platform\Windows\IMApp\IMApp\LoginWnd.cpp(1,1): warning C4828: 文件包含在偏移 0x879 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+D:\Project\TIMSDK\TIMSDK-master\cross-platform\Windows\IMApp\IMApp\LoginWnd.cpp(1,1): warning C4828: 文件包含在偏移 0x87d 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+D:\Project\TIMSDK\TIMSDK-master\cross-platform\Windows\IMApp\IMApp\LoginWnd.cpp(1,1): warning C4828: 文件包含在偏移 0x87e 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+D:\Project\TIMSDK\TIMSDK-master\cross-platform\Windows\IMApp\IMApp\LoginWnd.cpp(1,1): warning C4828: 文件包含在偏移 0x87f 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+D:\Project\TIMSDK\TIMSDK-master\cross-platform\Windows\IMApp\IMApp\LoginWnd.cpp(1,1): warning C4828: 文件包含在偏移 0x881 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+D:\Project\TIMSDK\TIMSDK-master\cross-platform\Windows\IMApp\IMApp\LoginWnd.cpp(1,1): warning C4828: 文件包含在偏移 0x960 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+D:\Project\TIMSDK\TIMSDK-master\cross-platform\Windows\IMApp\IMApp\LoginWnd.cpp(1,1): warning C4828: 文件包含在偏移 0x961 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+D:\Project\TIMSDK\TIMSDK-master\cross-platform\Windows\IMApp\IMApp\LoginWnd.cpp(1,1): warning C4828: 文件包含在偏移 0x965 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+D:\Project\TIMSDK\TIMSDK-master\cross-platform\Windows\IMApp\IMApp\LoginWnd.cpp(1,1): warning C4828: 文件包含在偏移 0xe6c 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+D:\Project\TIMSDK\TIMSDK-master\cross-platform\Windows\IMApp\IMApp\LoginWnd.cpp(1,1): warning C4828: 文件包含在偏移 0xe6d 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+D:\Project\TIMSDK\TIMSDK-master\cross-platform\Windows\IMApp\IMApp\LoginWnd.cpp(1,1): warning C4828: 文件包含在偏移 0xe6f 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+D:\Project\TIMSDK\TIMSDK-master\cross-platform\Windows\IMApp\IMApp\LoginWnd.cpp(1,1): warning C4828: 文件包含在偏移 0x1111 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+D:\Project\TIMSDK\TIMSDK-master\cross-platform\Windows\IMApp\IMApp\LoginWnd.cpp(1,1): warning C4828: 文件包含在偏移 0x1112 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+D:\Project\TIMSDK\TIMSDK-master\cross-platform\Windows\IMApp\IMApp\LoginWnd.cpp(1,1): warning C4828: 文件包含在偏移 0x1114 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+D:\Project\TIMSDK\TIMSDK-master\cross-platform\Windows\IMApp\IMApp\LoginWnd.cpp(1,1): warning C4828: 文件包含在偏移 0x1117 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+D:\Project\TIMSDK\TIMSDK-master\cross-platform\Windows\IMApp\IMApp\LoginWnd.cpp(1,1): warning C4828: 文件包含在偏移 0x1118 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+D:\Project\TIMSDK\TIMSDK-master\cross-platform\Windows\IMApp\IMApp\LoginWnd.cpp(1,1): warning C4828: 文件包含在偏移 0x1210 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+D:\Project\TIMSDK\TIMSDK-master\cross-platform\Windows\IMApp\IMApp\LoginWnd.cpp(1,1): warning C4828: 文件包含在偏移 0x1211 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+D:\Project\TIMSDK\TIMSDK-master\cross-platform\Windows\IMApp\IMApp\LoginWnd.cpp(1,1): warning C4828: 文件包含在偏移 0x1213 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+D:\Project\TIMSDK\TIMSDK-master\cross-platform\Windows\IMApp\IMApp\LoginWnd.cpp(1,1): warning C4828: 文件包含在偏移 0x1216 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+D:\Project\TIMSDK\TIMSDK-master\cross-platform\Windows\IMApp\IMApp\LoginWnd.cpp(1,1): warning C4828: 文件包含在偏移 0x1217 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+D:\Project\TIMSDK\TIMSDK-master\cross-platform\Windows\IMApp\IMApp\LoginWnd.cpp(1,1): warning C4828: 文件包含在偏移 0x1223 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+D:\Project\TIMSDK\TIMSDK-master\cross-platform\Windows\IMApp\IMApp\LoginWnd.cpp(1,1): warning C4828: 文件包含在偏移 0x1225 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+D:\Project\TIMSDK\TIMSDK-master\cross-platform\Windows\IMApp\IMApp\LoginWnd.cpp(1,1): warning C4828: 文件包含在偏移 0x1227 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+D:\Project\TIMSDK\TIMSDK-master\cross-platform\Windows\IMApp\IMApp\LoginWnd.cpp(1,1): warning C4828: 文件包含在偏移 0x1229 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+D:\Project\TIMSDK\TIMSDK-master\cross-platform\Windows\IMApp\IMApp\LoginWnd.cpp(1,1): warning C4828: 文件包含在偏移 0x122a 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+D:\Project\TIMSDK\TIMSDK-master\cross-platform\Windows\IMApp\IMApp\LoginWnd.cpp(1,1): warning C4828: 文件包含在偏移 0x122e 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+D:\Project\TIMSDK\TIMSDK-master\cross-platform\Windows\IMApp\IMApp\LoginWnd.cpp(1,1): warning C4828: 文件包含在偏移 0x1230 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+D:\Project\TIMSDK\TIMSDK-master\cross-platform\Windows\IMApp\IMApp\LoginWnd.cpp(1,1): warning C4828: 文件包含在偏移 0x1232 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+D:\Project\TIMSDK\TIMSDK-master\cross-platform\Windows\IMApp\IMApp\LoginWnd.cpp(1,1): warning C4828: 文件包含在偏移 0x1237 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+D:\Project\TIMSDK\TIMSDK-master\cross-platform\Windows\IMApp\IMApp\LoginWnd.cpp(1,1): warning C4828: 文件包含在偏移 0x12a9 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+D:\Project\TIMSDK\TIMSDK-master\cross-platform\Windows\IMApp\IMApp\LoginWnd.cpp(1,1): warning C4828: 文件包含在偏移 0x12ab 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+D:\Project\TIMSDK\TIMSDK-master\cross-platform\Windows\IMApp\IMApp\LoginWnd.cpp(1,1): warning C4828: 文件包含在偏移 0x12ac 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+D:\Project\TIMSDK\TIMSDK-master\cross-platform\Windows\IMApp\IMApp\LoginWnd.cpp(1,1): warning C4828: 文件包含在偏移 0x12b0 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+D:\Project\TIMSDK\TIMSDK-master\cross-platform\Windows\IMApp\IMApp\LoginWnd.cpp(1,1): warning C4828: 文件包含在偏移 0x12ff 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+D:\Project\TIMSDK\TIMSDK-master\cross-platform\Windows\IMApp\IMApp\LoginWnd.cpp(1,1): warning C4828: 文件包含在偏移 0x1301 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+D:\Project\TIMSDK\TIMSDK-master\cross-platform\Windows\IMApp\IMApp\LoginWnd.cpp(1,1): warning C4828: 文件包含在偏移 0x1302 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+D:\Project\TIMSDK\TIMSDK-master\cross-platform\Windows\IMApp\IMApp\LoginWnd.cpp(1,1): warning C4828: 文件包含在偏移 0x1306 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+D:\Project\TIMSDK\TIMSDK-master\cross-platform\Windows\IMApp\IMApp\LoginWnd.cpp(1,1): warning C4828: 文件包含在偏移 0x136b 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+D:\Project\TIMSDK\TIMSDK-master\cross-platform\Windows\IMApp\IMApp\LoginWnd.cpp(1,1): warning C4828: 文件包含在偏移 0x136d 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+D:\Project\TIMSDK\TIMSDK-master\cross-platform\Windows\IMApp\IMApp\LoginWnd.cpp(1,1): warning C4828: 文件包含在偏移 0x136e 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+D:\Project\TIMSDK\TIMSDK-master\cross-platform\Windows\IMApp\IMApp\LoginWnd.cpp(1,1): warning C4828: 文件包含在偏移 0x1370 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+D:\Project\TIMSDK\TIMSDK-master\cross-platform\Windows\IMApp\IMApp\LoginWnd.cpp(1,1): warning C4828: 文件包含在偏移 0x1373 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+D:\Project\TIMSDK\TIMSDK-master\cross-platform\Windows\IMApp\IMApp\LoginWnd.cpp(1,1): warning C4828: 文件包含在偏移 0x1374 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+D:\Project\TIMSDK\TIMSDK-master\cross-platform\Windows\IMApp\IMApp\LoginWnd.cpp(1,1): warning C4828: 文件包含在偏移 0x1376 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+D:\Project\TIMSDK\TIMSDK-master\cross-platform\Windows\IMApp\IMApp\LoginWnd.cpp(1,1): warning C4828: 文件包含在偏移 0x1378 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+D:\Project\TIMSDK\TIMSDK-master\cross-platform\Windows\IMApp\IMApp\LoginWnd.cpp(1,1): warning C4828: 文件包含在偏移 0x1379 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+D:\Project\TIMSDK\TIMSDK-master\cross-platform\Windows\IMApp\IMApp\LoginWnd.cpp(1,1): warning C4828: 文件包含在偏移 0x140e 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+D:\Project\TIMSDK\TIMSDK-master\cross-platform\Windows\IMApp\IMApp\LoginWnd.cpp(1,1): warning C4828: 文件包含在偏移 0x1410 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+D:\Project\TIMSDK\TIMSDK-master\cross-platform\Windows\IMApp\IMApp\LoginWnd.cpp(1,1): warning C4828: 文件包含在偏移 0x1413 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+D:\Project\TIMSDK\TIMSDK-master\cross-platform\Windows\IMApp\IMApp\LoginWnd.cpp(1,1): warning C4828: 文件包含在偏移 0x1417 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+D:\Project\TIMSDK\TIMSDK-master\cross-platform\Windows\IMApp\IMApp\LoginWnd.cpp(1,1): warning C4828: 文件包含在偏移 0x1419 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+D:\Project\TIMSDK\TIMSDK-master\cross-platform\Windows\IMApp\IMApp\LoginWnd.cpp(1,1): warning C4828: 文件包含在偏移 0x141d 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+D:\Project\TIMSDK\TIMSDK-master\cross-platform\Windows\IMApp\IMApp\LoginWnd.cpp(1,1): warning C4828: 文件包含在偏移 0x141e 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+D:\Project\TIMSDK\TIMSDK-master\cross-platform\Windows\IMApp\IMApp\LoginWnd.cpp(1,1): warning C4828: 文件包含在偏移 0x1420 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+D:\Project\TIMSDK\TIMSDK-master\cross-platform\Windows\IMApp\IMApp\LoginWnd.cpp(1,1): warning C4828: 文件包含在偏移 0x1422 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+D:\Project\TIMSDK\TIMSDK-master\cross-platform\Windows\IMApp\IMApp\LoginWnd.cpp(1,1): warning C4828: 文件包含在偏移 0x1423 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+D:\Project\TIMSDK\TIMSDK-master\cross-platform\Windows\IMApp\IMApp\LoginWnd.cpp(1,1): warning C4828: 文件包含在偏移 0x142d 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+D:\Project\TIMSDK\TIMSDK-master\cross-platform\Windows\IMApp\IMApp\LoginWnd.cpp(1,1): warning C4828: 文件包含在偏移 0x142e 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+D:\Project\TIMSDK\TIMSDK-master\cross-platform\Windows\IMApp\IMApp\LoginWnd.cpp(1,1): warning C4828: 文件包含在偏移 0x1430 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+D:\Project\TIMSDK\TIMSDK-master\cross-platform\Windows\IMApp\IMApp\LoginWnd.cpp(1,1): warning C4828: 文件包含在偏移 0x167f 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+D:\Project\TIMSDK\TIMSDK-master\cross-platform\Windows\IMApp\IMApp\LoginWnd.cpp(1,1): warning C4828: 文件包含在偏移 0x1681 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+D:\Project\TIMSDK\TIMSDK-master\cross-platform\Windows\IMApp\IMApp\LoginWnd.cpp(1,1): warning C4828: 文件包含在偏移 0x1682 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+D:\Project\TIMSDK\TIMSDK-master\cross-platform\Windows\IMApp\IMApp\LoginWnd.cpp(1,1): warning C4828: 文件包含在偏移 0x1686 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+D:\Project\TIMSDK\TIMSDK-master\cross-platform\Windows\IMApp\IMApp\LoginWnd.cpp(1,1): warning C4828: 文件包含在偏移 0x1687 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+D:\Project\TIMSDK\TIMSDK-master\cross-platform\Windows\IMApp\IMApp\LoginWnd.cpp(1,1): warning C4828: 文件包含在偏移 0x168a 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+D:\Project\TIMSDK\TIMSDK-master\cross-platform\Windows\IMApp\IMApp\LoginWnd.cpp(1,1): warning C4828: 文件包含在偏移 0x168e 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+D:\Project\TIMSDK\TIMSDK-master\cross-platform\Windows\IMApp\IMApp\LoginWnd.cpp(1,1): warning C4828: 文件包含在偏移 0x1690 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+D:\Project\TIMSDK\TIMSDK-master\cross-platform\Windows\IMApp\IMApp\LoginWnd.cpp(1,1): warning C4828: 文件包含在偏移 0x1692 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+D:\Project\TIMSDK\TIMSDK-master\cross-platform\Windows\IMApp\IMApp\LoginWnd.cpp(1,1): warning C4828: 文件包含在偏移 0x1693 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+D:\Project\TIMSDK\TIMSDK-master\cross-platform\Windows\IMApp\IMApp\LoginWnd.cpp(1,1): warning C4828: 文件包含在偏移 0x1694 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+D:\Project\TIMSDK\TIMSDK-master\cross-platform\Windows\IMApp\IMApp\LoginWnd.cpp(1,1): warning C4828: 文件包含在偏移 0x1815 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+D:\Project\TIMSDK\TIMSDK-master\cross-platform\Windows\IMApp\IMApp\LoginWnd.cpp(1,1): warning C4828: 文件包含在偏移 0x1818 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+D:\Project\TIMSDK\TIMSDK-master\cross-platform\Windows\IMApp\common\Base.h(17,91): warning C4267: “参数”: 从“size_t”转换到“int”，可能丢失数据
+D:\Project\TIMSDK\TIMSDK-master\cross-platform\Windows\IMApp\common\Base.h(25,91): warning C4267: “参数”: 从“size_t”转换到“int”，可能丢失数据
+D:\Project\TIMSDK\TIMSDK-master\cross-platform\Windows\IMApp\common\Base.h(33,90): warning C4267: “参数”: 从“size_t”转换到“int”，可能丢失数据
+D:\Project\TIMSDK\TIMSDK-master\cross-platform\Windows\IMApp\common\Base.h(41,90): warning C4267: “参数”: 从“size_t”转换到“int”，可能丢失数据
+D:\Project\TIMSDK\TIMSDK-master\cross-platform\Windows\IMApp\common\Base.h(49,103): warning C4267: “参数”: 从“size_t”转换到“int”，可能丢失数据
+D:\Project\TIMSDK\TIMSDK-master\cross-platform\Windows\IMApp\common\Base.h(57,103): warning C4267: “参数”: 从“size_t”转换到“int”，可能丢失数据
+D:\Project\TIMSDK\TIMSDK-master\cross-platform\Windows\IMApp\common\Base.h(65,102): warning C4267: “参数”: 从“size_t”转换到“int”，可能丢失数据
+D:\Project\TIMSDK\TIMSDK-master\cross-platform\Windows\IMApp\common\Base.h(73,102): warning C4267: “参数”: 从“size_t”转换到“int”，可能丢失数据
+D:\Project\TIMSDK\TIMSDK-master\cross-platform\Windows\IMApp\IMApp\LoginWnd.cpp(82,30): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+  main.cpp
+  MsgBox.cpp
+  TestApi.cpp
+  WndShadow.cpp
+  正在生成代码...
+  adler32.c
+  compress.c
+  crc32.c
+  deflate.c
+  gzclose.c
+  gzlib.c
+  gzread.c
+  gzwrite.c
+  infback.c
+  inffast.c
+  inflate.c
+  inftrees.c
+  ioapi.c
+  trees.c
+  uncompr.c
+  zip.c
+  zutil.c
+  正在生成代码...
+LINK : warning LNK4098: 默认库“LIBCMT”与其他库的使用冲突；请使用 /NODEFAULTLIB:library
+libcurl.lib(asyn-thread.obj) : warning LNK4099: 未找到 PDB“libcurl.pdb”(使用“libcurl.lib(asyn-thread.obj)”或在“D:\Project\TIMSDK\TIMSDK-master\cross-platform\Windows\IMApp\Bin\Win64\Debug\libcurl.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+libcurl.lib(base64.obj) : warning LNK4099: 未找到 PDB“libcurl.pdb”(使用“libcurl.lib(base64.obj)”或在“D:\Project\TIMSDK\TIMSDK-master\cross-platform\Windows\IMApp\Bin\Win64\Debug\libcurl.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+libcurl.lib(conncache.obj) : warning LNK4099: 未找到 PDB“libcurl.pdb”(使用“libcurl.lib(conncache.obj)”或在“D:\Project\TIMSDK\TIMSDK-master\cross-platform\Windows\IMApp\Bin\Win64\Debug\libcurl.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+libcurl.lib(connect.obj) : warning LNK4099: 未找到 PDB“libcurl.pdb”(使用“libcurl.lib(connect.obj)”或在“D:\Project\TIMSDK\TIMSDK-master\cross-platform\Windows\IMApp\Bin\Win64\Debug\libcurl.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+libcurl.lib(content_encoding.obj) : warning LNK4099: 未找到 PDB“libcurl.pdb”(使用“libcurl.lib(content_encoding.obj)”或在“D:\Project\TIMSDK\TIMSDK-master\cross-platform\Windows\IMApp\Bin\Win64\Debug\libcurl.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+libcurl.lib(cookie.obj) : warning LNK4099: 未找到 PDB“libcurl.pdb”(使用“libcurl.lib(cookie.obj)”或在“D:\Project\TIMSDK\TIMSDK-master\cross-platform\Windows\IMApp\Bin\Win64\Debug\libcurl.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+libcurl.lib(curl_addrinfo.obj) : warning LNK4099: 未找到 PDB“libcurl.pdb”(使用“libcurl.lib(curl_addrinfo.obj)”或在“D:\Project\TIMSDK\TIMSDK-master\cross-platform\Windows\IMApp\Bin\Win64\Debug\libcurl.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+libcurl.lib(curl_ctype.obj) : warning LNK4099: 未找到 PDB“libcurl.pdb”(使用“libcurl.lib(curl_ctype.obj)”或在“D:\Project\TIMSDK\TIMSDK-master\cross-platform\Windows\IMApp\Bin\Win64\Debug\libcurl.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+libcurl.lib(curl_des.obj) : warning LNK4099: 未找到 PDB“libcurl.pdb”(使用“libcurl.lib(curl_des.obj)”或在“D:\Project\TIMSDK\TIMSDK-master\cross-platform\Windows\IMApp\Bin\Win64\Debug\libcurl.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+libcurl.lib(curl_endian.obj) : warning LNK4099: 未找到 PDB“libcurl.pdb”(使用“libcurl.lib(curl_endian.obj)”或在“D:\Project\TIMSDK\TIMSDK-master\cross-platform\Windows\IMApp\Bin\Win64\Debug\libcurl.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+libcurl.lib(curl_fnmatch.obj) : warning LNK4099: 未找到 PDB“libcurl.pdb”(使用“libcurl.lib(curl_fnmatch.obj)”或在“D:\Project\TIMSDK\TIMSDK-master\cross-platform\Windows\IMApp\Bin\Win64\Debug\libcurl.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+libcurl.lib(curl_gethostname.obj) : warning LNK4099: 未找到 PDB“libcurl.pdb”(使用“libcurl.lib(curl_gethostname.obj)”或在“D:\Project\TIMSDK\TIMSDK-master\cross-platform\Windows\IMApp\Bin\Win64\Debug\libcurl.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+libcurl.lib(curl_memrchr.obj) : warning LNK4099: 未找到 PDB“libcurl.pdb”(使用“libcurl.lib(curl_memrchr.obj)”或在“D:\Project\TIMSDK\TIMSDK-master\cross-platform\Windows\IMApp\Bin\Win64\Debug\libcurl.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+libcurl.lib(curl_ntlm_core.obj) : warning LNK4099: 未找到 PDB“libcurl.pdb”(使用“libcurl.lib(curl_ntlm_core.obj)”或在“D:\Project\TIMSDK\TIMSDK-master\cross-platform\Windows\IMApp\Bin\Win64\Debug\libcurl.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+libcurl.lib(curl_range.obj) : warning LNK4099: 未找到 PDB“libcurl.pdb”(使用“libcurl.lib(curl_range.obj)”或在“D:\Project\TIMSDK\TIMSDK-master\cross-platform\Windows\IMApp\Bin\Win64\Debug\libcurl.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+libcurl.lib(curl_sasl.obj) : warning LNK4099: 未找到 PDB“libcurl.pdb”(使用“libcurl.lib(curl_sasl.obj)”或在“D:\Project\TIMSDK\TIMSDK-master\cross-platform\Windows\IMApp\Bin\Win64\Debug\libcurl.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+libcurl.lib(curl_sspi.obj) : warning LNK4099: 未找到 PDB“libcurl.pdb”(使用“libcurl.lib(curl_sspi.obj)”或在“D:\Project\TIMSDK\TIMSDK-master\cross-platform\Windows\IMApp\Bin\Win64\Debug\libcurl.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+libcurl.lib(curl_threads.obj) : warning LNK4099: 未找到 PDB“libcurl.pdb”(使用“libcurl.lib(curl_threads.obj)”或在“D:\Project\TIMSDK\TIMSDK-master\cross-platform\Windows\IMApp\Bin\Win64\Debug\libcurl.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+libcurl.lib(dict.obj) : warning LNK4099: 未找到 PDB“libcurl.pdb”(使用“libcurl.lib(dict.obj)”或在“D:\Project\TIMSDK\TIMSDK-master\cross-platform\Windows\IMApp\Bin\Win64\Debug\libcurl.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+libcurl.lib(dotdot.obj) : warning LNK4099: 未找到 PDB“libcurl.pdb”(使用“libcurl.lib(dotdot.obj)”或在“D:\Project\TIMSDK\TIMSDK-master\cross-platform\Windows\IMApp\Bin\Win64\Debug\libcurl.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+libcurl.lib(easy.obj) : warning LNK4099: 未找到 PDB“libcurl.pdb”(使用“libcurl.lib(easy.obj)”或在“D:\Project\TIMSDK\TIMSDK-master\cross-platform\Windows\IMApp\Bin\Win64\Debug\libcurl.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+libcurl.lib(escape.obj) : warning LNK4099: 未找到 PDB“libcurl.pdb”(使用“libcurl.lib(escape.obj)”或在“D:\Project\TIMSDK\TIMSDK-master\cross-platform\Windows\IMApp\Bin\Win64\Debug\libcurl.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+libcurl.lib(file.obj) : warning LNK4099: 未找到 PDB“libcurl.pdb”(使用“libcurl.lib(file.obj)”或在“D:\Project\TIMSDK\TIMSDK-master\cross-platform\Windows\IMApp\Bin\Win64\Debug\libcurl.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+libcurl.lib(fileinfo.obj) : warning LNK4099: 未找到 PDB“libcurl.pdb”(使用“libcurl.lib(fileinfo.obj)”或在“D:\Project\TIMSDK\TIMSDK-master\cross-platform\Windows\IMApp\Bin\Win64\Debug\libcurl.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+libcurl.lib(formdata.obj) : warning LNK4099: 未找到 PDB“libcurl.pdb”(使用“libcurl.lib(formdata.obj)”或在“D:\Project\TIMSDK\TIMSDK-master\cross-platform\Windows\IMApp\Bin\Win64\Debug\libcurl.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+libcurl.lib(ftp.obj) : warning LNK4099: 未找到 PDB“libcurl.pdb”(使用“libcurl.lib(ftp.obj)”或在“D:\Project\TIMSDK\TIMSDK-master\cross-platform\Windows\IMApp\Bin\Win64\Debug\libcurl.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+libcurl.lib(ftplistparser.obj) : warning LNK4099: 未找到 PDB“libcurl.pdb”(使用“libcurl.lib(ftplistparser.obj)”或在“D:\Project\TIMSDK\TIMSDK-master\cross-platform\Windows\IMApp\Bin\Win64\Debug\libcurl.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+libcurl.lib(getenv.obj) : warning LNK4099: 未找到 PDB“libcurl.pdb”(使用“libcurl.lib(getenv.obj)”或在“D:\Project\TIMSDK\TIMSDK-master\cross-platform\Windows\IMApp\Bin\Win64\Debug\libcurl.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+libcurl.lib(getinfo.obj) : warning LNK4099: 未找到 PDB“libcurl.pdb”(使用“libcurl.lib(getinfo.obj)”或在“D:\Project\TIMSDK\TIMSDK-master\cross-platform\Windows\IMApp\Bin\Win64\Debug\libcurl.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+libcurl.lib(gopher.obj) : warning LNK4099: 未找到 PDB“libcurl.pdb”(使用“libcurl.lib(gopher.obj)”或在“D:\Project\TIMSDK\TIMSDK-master\cross-platform\Windows\IMApp\Bin\Win64\Debug\libcurl.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+libcurl.lib(hash.obj) : warning LNK4099: 未找到 PDB“libcurl.pdb”(使用“libcurl.lib(hash.obj)”或在“D:\Project\TIMSDK\TIMSDK-master\cross-platform\Windows\IMApp\Bin\Win64\Debug\libcurl.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+libcurl.lib(hmac.obj) : warning LNK4099: 未找到 PDB“libcurl.pdb”(使用“libcurl.lib(hmac.obj)”或在“D:\Project\TIMSDK\TIMSDK-master\cross-platform\Windows\IMApp\Bin\Win64\Debug\libcurl.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+libcurl.lib(hostasyn.obj) : warning LNK4099: 未找到 PDB“libcurl.pdb”(使用“libcurl.lib(hostasyn.obj)”或在“D:\Project\TIMSDK\TIMSDK-master\cross-platform\Windows\IMApp\Bin\Win64\Debug\libcurl.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+libcurl.lib(hostcheck.obj) : warning LNK4099: 未找到 PDB“libcurl.pdb”(使用“libcurl.lib(hostcheck.obj)”或在“D:\Project\TIMSDK\TIMSDK-master\cross-platform\Windows\IMApp\Bin\Win64\Debug\libcurl.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+libcurl.lib(hostip4.obj) : warning LNK4099: 未找到 PDB“libcurl.pdb”(使用“libcurl.lib(hostip4.obj)”或在“D:\Project\TIMSDK\TIMSDK-master\cross-platform\Windows\IMApp\Bin\Win64\Debug\libcurl.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+libcurl.lib(hostip.obj) : warning LNK4099: 未找到 PDB“libcurl.pdb”(使用“libcurl.lib(hostip.obj)”或在“D:\Project\TIMSDK\TIMSDK-master\cross-platform\Windows\IMApp\Bin\Win64\Debug\libcurl.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+libcurl.lib(http.obj) : warning LNK4099: 未找到 PDB“libcurl.pdb”(使用“libcurl.lib(http.obj)”或在“D:\Project\TIMSDK\TIMSDK-master\cross-platform\Windows\IMApp\Bin\Win64\Debug\libcurl.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+libcurl.lib(http_chunks.obj) : warning LNK4099: 未找到 PDB“libcurl.pdb”(使用“libcurl.lib(http_chunks.obj)”或在“D:\Project\TIMSDK\TIMSDK-master\cross-platform\Windows\IMApp\Bin\Win64\Debug\libcurl.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+libcurl.lib(http_digest.obj) : warning LNK4099: 未找到 PDB“libcurl.pdb”(使用“libcurl.lib(http_digest.obj)”或在“D:\Project\TIMSDK\TIMSDK-master\cross-platform\Windows\IMApp\Bin\Win64\Debug\libcurl.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+libcurl.lib(http_negotiate.obj) : warning LNK4099: 未找到 PDB“libcurl.pdb”(使用“libcurl.lib(http_negotiate.obj)”或在“D:\Project\TIMSDK\TIMSDK-master\cross-platform\Windows\IMApp\Bin\Win64\Debug\libcurl.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+libcurl.lib(http_ntlm.obj) : warning LNK4099: 未找到 PDB“libcurl.pdb”(使用“libcurl.lib(http_ntlm.obj)”或在“D:\Project\TIMSDK\TIMSDK-master\cross-platform\Windows\IMApp\Bin\Win64\Debug\libcurl.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+libcurl.lib(http_proxy.obj) : warning LNK4099: 未找到 PDB“libcurl.pdb”(使用“libcurl.lib(http_proxy.obj)”或在“D:\Project\TIMSDK\TIMSDK-master\cross-platform\Windows\IMApp\Bin\Win64\Debug\libcurl.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+libcurl.lib(if2ip.obj) : warning LNK4099: 未找到 PDB“libcurl.pdb”(使用“libcurl.lib(if2ip.obj)”或在“D:\Project\TIMSDK\TIMSDK-master\cross-platform\Windows\IMApp\Bin\Win64\Debug\libcurl.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+libcurl.lib(imap.obj) : warning LNK4099: 未找到 PDB“libcurl.pdb”(使用“libcurl.lib(imap.obj)”或在“D:\Project\TIMSDK\TIMSDK-master\cross-platform\Windows\IMApp\Bin\Win64\Debug\libcurl.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+libcurl.lib(inet_ntop.obj) : warning LNK4099: 未找到 PDB“libcurl.pdb”(使用“libcurl.lib(inet_ntop.obj)”或在“D:\Project\TIMSDK\TIMSDK-master\cross-platform\Windows\IMApp\Bin\Win64\Debug\libcurl.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+libcurl.lib(inet_pton.obj) : warning LNK4099: 未找到 PDB“libcurl.pdb”(使用“libcurl.lib(inet_pton.obj)”或在“D:\Project\TIMSDK\TIMSDK-master\cross-platform\Windows\IMApp\Bin\Win64\Debug\libcurl.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+libcurl.lib(ldap.obj) : warning LNK4099: 未找到 PDB“libcurl.pdb”(使用“libcurl.lib(ldap.obj)”或在“D:\Project\TIMSDK\TIMSDK-master\cross-platform\Windows\IMApp\Bin\Win64\Debug\libcurl.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+libcurl.lib(llist.obj) : warning LNK4099: 未找到 PDB“libcurl.pdb”(使用“libcurl.lib(llist.obj)”或在“D:\Project\TIMSDK\TIMSDK-master\cross-platform\Windows\IMApp\Bin\Win64\Debug\libcurl.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+libcurl.lib(md5.obj) : warning LNK4099: 未找到 PDB“libcurl.pdb”(使用“libcurl.lib(md5.obj)”或在“D:\Project\TIMSDK\TIMSDK-master\cross-platform\Windows\IMApp\Bin\Win64\Debug\libcurl.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+libcurl.lib(mime.obj) : warning LNK4099: 未找到 PDB“libcurl.pdb”(使用“libcurl.lib(mime.obj)”或在“D:\Project\TIMSDK\TIMSDK-master\cross-platform\Windows\IMApp\Bin\Win64\Debug\libcurl.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+libcurl.lib(mprintf.obj) : warning LNK4099: 未找到 PDB“libcurl.pdb”(使用“libcurl.lib(mprintf.obj)”或在“D:\Project\TIMSDK\TIMSDK-master\cross-platform\Windows\IMApp\Bin\Win64\Debug\libcurl.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+libcurl.lib(multi.obj) : warning LNK4099: 未找到 PDB“libcurl.pdb”(使用“libcurl.lib(multi.obj)”或在“D:\Project\TIMSDK\TIMSDK-master\cross-platform\Windows\IMApp\Bin\Win64\Debug\libcurl.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+libcurl.lib(netrc.obj) : warning LNK4099: 未找到 PDB“libcurl.pdb”(使用“libcurl.lib(netrc.obj)”或在“D:\Project\TIMSDK\TIMSDK-master\cross-platform\Windows\IMApp\Bin\Win64\Debug\libcurl.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+libcurl.lib(nonblock.obj) : warning LNK4099: 未找到 PDB“libcurl.pdb”(使用“libcurl.lib(nonblock.obj)”或在“D:\Project\TIMSDK\TIMSDK-master\cross-platform\Windows\IMApp\Bin\Win64\Debug\libcurl.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+libcurl.lib(parsedate.obj) : warning LNK4099: 未找到 PDB“libcurl.pdb”(使用“libcurl.lib(parsedate.obj)”或在“D:\Project\TIMSDK\TIMSDK-master\cross-platform\Windows\IMApp\Bin\Win64\Debug\libcurl.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+libcurl.lib(pingpong.obj) : warning LNK4099: 未找到 PDB“libcurl.pdb”(使用“libcurl.lib(pingpong.obj)”或在“D:\Project\TIMSDK\TIMSDK-master\cross-platform\Windows\IMApp\Bin\Win64\Debug\libcurl.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+libcurl.lib(pipeline.obj) : warning LNK4099: 未找到 PDB“libcurl.pdb”(使用“libcurl.lib(pipeline.obj)”或在“D:\Project\TIMSDK\TIMSDK-master\cross-platform\Windows\IMApp\Bin\Win64\Debug\libcurl.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+libcurl.lib(pop3.obj) : warning LNK4099: 未找到 PDB“libcurl.pdb”(使用“libcurl.lib(pop3.obj)”或在“D:\Project\TIMSDK\TIMSDK-master\cross-platform\Windows\IMApp\Bin\Win64\Debug\libcurl.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+libcurl.lib(progress.obj) : warning LNK4099: 未找到 PDB“libcurl.pdb”(使用“libcurl.lib(progress.obj)”或在“D:\Project\TIMSDK\TIMSDK-master\cross-platform\Windows\IMApp\Bin\Win64\Debug\libcurl.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+libcurl.lib(rand.obj) : warning LNK4099: 未找到 PDB“libcurl.pdb”(使用“libcurl.lib(rand.obj)”或在“D:\Project\TIMSDK\TIMSDK-master\cross-platform\Windows\IMApp\Bin\Win64\Debug\libcurl.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+libcurl.lib(rtsp.obj) : warning LNK4099: 未找到 PDB“libcurl.pdb”(使用“libcurl.lib(rtsp.obj)”或在“D:\Project\TIMSDK\TIMSDK-master\cross-platform\Windows\IMApp\Bin\Win64\Debug\libcurl.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+libcurl.lib(select.obj) : warning LNK4099: 未找到 PDB“libcurl.pdb”(使用“libcurl.lib(select.obj)”或在“D:\Project\TIMSDK\TIMSDK-master\cross-platform\Windows\IMApp\Bin\Win64\Debug\libcurl.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+libcurl.lib(sendf.obj) : warning LNK4099: 未找到 PDB“libcurl.pdb”(使用“libcurl.lib(sendf.obj)”或在“D:\Project\TIMSDK\TIMSDK-master\cross-platform\Windows\IMApp\Bin\Win64\Debug\libcurl.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+libcurl.lib(setopt.obj) : warning LNK4099: 未找到 PDB“libcurl.pdb”(使用“libcurl.lib(setopt.obj)”或在“D:\Project\TIMSDK\TIMSDK-master\cross-platform\Windows\IMApp\Bin\Win64\Debug\libcurl.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+libcurl.lib(share.obj) : warning LNK4099: 未找到 PDB“libcurl.pdb”(使用“libcurl.lib(share.obj)”或在“D:\Project\TIMSDK\TIMSDK-master\cross-platform\Windows\IMApp\Bin\Win64\Debug\libcurl.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+libcurl.lib(slist.obj) : warning LNK4099: 未找到 PDB“libcurl.pdb”(使用“libcurl.lib(slist.obj)”或在“D:\Project\TIMSDK\TIMSDK-master\cross-platform\Windows\IMApp\Bin\Win64\Debug\libcurl.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+libcurl.lib(smb.obj) : warning LNK4099: 未找到 PDB“libcurl.pdb”(使用“libcurl.lib(smb.obj)”或在“D:\Project\TIMSDK\TIMSDK-master\cross-platform\Windows\IMApp\Bin\Win64\Debug\libcurl.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+libcurl.lib(smtp.obj) : warning LNK4099: 未找到 PDB“libcurl.pdb”(使用“libcurl.lib(smtp.obj)”或在“D:\Project\TIMSDK\TIMSDK-master\cross-platform\Windows\IMApp\Bin\Win64\Debug\libcurl.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+libcurl.lib(socks.obj) : warning LNK4099: 未找到 PDB“libcurl.pdb”(使用“libcurl.lib(socks.obj)”或在“D:\Project\TIMSDK\TIMSDK-master\cross-platform\Windows\IMApp\Bin\Win64\Debug\libcurl.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+libcurl.lib(socks_sspi.obj) : warning LNK4099: 未找到 PDB“libcurl.pdb”(使用“libcurl.lib(socks_sspi.obj)”或在“D:\Project\TIMSDK\TIMSDK-master\cross-platform\Windows\IMApp\Bin\Win64\Debug\libcurl.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+libcurl.lib(speedcheck.obj) : warning LNK4099: 未找到 PDB“libcurl.pdb”(使用“libcurl.lib(speedcheck.obj)”或在“D:\Project\TIMSDK\TIMSDK-master\cross-platform\Windows\IMApp\Bin\Win64\Debug\libcurl.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+libcurl.lib(splay.obj) : warning LNK4099: 未找到 PDB“libcurl.pdb”(使用“libcurl.lib(splay.obj)”或在“D:\Project\TIMSDK\TIMSDK-master\cross-platform\Windows\IMApp\Bin\Win64\Debug\libcurl.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+libcurl.lib(strcase.obj) : warning LNK4099: 未找到 PDB“libcurl.pdb”(使用“libcurl.lib(strcase.obj)”或在“D:\Project\TIMSDK\TIMSDK-master\cross-platform\Windows\IMApp\Bin\Win64\Debug\libcurl.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+libcurl.lib(strdup.obj) : warning LNK4099: 未找到 PDB“libcurl.pdb”(使用“libcurl.lib(strdup.obj)”或在“D:\Project\TIMSDK\TIMSDK-master\cross-platform\Windows\IMApp\Bin\Win64\Debug\libcurl.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+libcurl.lib(strerror.obj) : warning LNK4099: 未找到 PDB“libcurl.pdb”(使用“libcurl.lib(strerror.obj)”或在“D:\Project\TIMSDK\TIMSDK-master\cross-platform\Windows\IMApp\Bin\Win64\Debug\libcurl.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+libcurl.lib(strtok.obj) : warning LNK4099: 未找到 PDB“libcurl.pdb”(使用“libcurl.lib(strtok.obj)”或在“D:\Project\TIMSDK\TIMSDK-master\cross-platform\Windows\IMApp\Bin\Win64\Debug\libcurl.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+libcurl.lib(strtoofft.obj) : warning LNK4099: 未找到 PDB“libcurl.pdb”(使用“libcurl.lib(strtoofft.obj)”或在“D:\Project\TIMSDK\TIMSDK-master\cross-platform\Windows\IMApp\Bin\Win64\Debug\libcurl.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+libcurl.lib(system_win32.obj) : warning LNK4099: 未找到 PDB“libcurl.pdb”(使用“libcurl.lib(system_win32.obj)”或在“D:\Project\TIMSDK\TIMSDK-master\cross-platform\Windows\IMApp\Bin\Win64\Debug\libcurl.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+libcurl.lib(telnet.obj) : warning LNK4099: 未找到 PDB“libcurl.pdb”(使用“libcurl.lib(telnet.obj)”或在“D:\Project\TIMSDK\TIMSDK-master\cross-platform\Windows\IMApp\Bin\Win64\Debug\libcurl.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+libcurl.lib(tftp.obj) : warning LNK4099: 未找到 PDB“libcurl.pdb”(使用“libcurl.lib(tftp.obj)”或在“D:\Project\TIMSDK\TIMSDK-master\cross-platform\Windows\IMApp\Bin\Win64\Debug\libcurl.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+libcurl.lib(timeval.obj) : warning LNK4099: 未找到 PDB“libcurl.pdb”(使用“libcurl.lib(timeval.obj)”或在“D:\Project\TIMSDK\TIMSDK-master\cross-platform\Windows\IMApp\Bin\Win64\Debug\libcurl.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+libcurl.lib(transfer.obj) : warning LNK4099: 未找到 PDB“libcurl.pdb”(使用“libcurl.lib(transfer.obj)”或在“D:\Project\TIMSDK\TIMSDK-master\cross-platform\Windows\IMApp\Bin\Win64\Debug\libcurl.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+libcurl.lib(url.obj) : warning LNK4099: 未找到 PDB“libcurl.pdb”(使用“libcurl.lib(url.obj)”或在“D:\Project\TIMSDK\TIMSDK-master\cross-platform\Windows\IMApp\Bin\Win64\Debug\libcurl.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+libcurl.lib(version.obj) : warning LNK4099: 未找到 PDB“libcurl.pdb”(使用“libcurl.lib(version.obj)”或在“D:\Project\TIMSDK\TIMSDK-master\cross-platform\Windows\IMApp\Bin\Win64\Debug\libcurl.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+libcurl.lib(warnless.obj) : warning LNK4099: 未找到 PDB“libcurl.pdb”(使用“libcurl.lib(warnless.obj)”或在“D:\Project\TIMSDK\TIMSDK-master\cross-platform\Windows\IMApp\Bin\Win64\Debug\libcurl.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+libcurl.lib(wildcard.obj) : warning LNK4099: 未找到 PDB“libcurl.pdb”(使用“libcurl.lib(wildcard.obj)”或在“D:\Project\TIMSDK\TIMSDK-master\cross-platform\Windows\IMApp\Bin\Win64\Debug\libcurl.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+libcurl.lib(x509asn1.obj) : warning LNK4099: 未找到 PDB“libcurl.pdb”(使用“libcurl.lib(x509asn1.obj)”或在“D:\Project\TIMSDK\TIMSDK-master\cross-platform\Windows\IMApp\Bin\Win64\Debug\libcurl.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+libcurl.lib(cleartext.obj) : warning LNK4099: 未找到 PDB“libcurl.pdb”(使用“libcurl.lib(cleartext.obj)”或在“D:\Project\TIMSDK\TIMSDK-master\cross-platform\Windows\IMApp\Bin\Win64\Debug\libcurl.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+libcurl.lib(cram.obj) : warning LNK4099: 未找到 PDB“libcurl.pdb”(使用“libcurl.lib(cram.obj)”或在“D:\Project\TIMSDK\TIMSDK-master\cross-platform\Windows\IMApp\Bin\Win64\Debug\libcurl.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+libcurl.lib(digest.obj) : warning LNK4099: 未找到 PDB“libcurl.pdb”(使用“libcurl.lib(digest.obj)”或在“D:\Project\TIMSDK\TIMSDK-master\cross-platform\Windows\IMApp\Bin\Win64\Debug\libcurl.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+libcurl.lib(digest_sspi.obj) : warning LNK4099: 未找到 PDB“libcurl.pdb”(使用“libcurl.lib(digest_sspi.obj)”或在“D:\Project\TIMSDK\TIMSDK-master\cross-platform\Windows\IMApp\Bin\Win64\Debug\libcurl.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+libcurl.lib(krb5_sspi.obj) : warning LNK4099: 未找到 PDB“libcurl.pdb”(使用“libcurl.lib(krb5_sspi.obj)”或在“D:\Project\TIMSDK\TIMSDK-master\cross-platform\Windows\IMApp\Bin\Win64\Debug\libcurl.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+libcurl.lib(ntlm_sspi.obj) : warning LNK4099: 未找到 PDB“libcurl.pdb”(使用“libcurl.lib(ntlm_sspi.obj)”或在“D:\Project\TIMSDK\TIMSDK-master\cross-platform\Windows\IMApp\Bin\Win64\Debug\libcurl.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+libcurl.lib(oauth2.obj) : warning LNK4099: 未找到 PDB“libcurl.pdb”(使用“libcurl.lib(oauth2.obj)”或在“D:\Project\TIMSDK\TIMSDK-master\cross-platform\Windows\IMApp\Bin\Win64\Debug\libcurl.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+libcurl.lib(spnego_sspi.obj) : warning LNK4099: 未找到 PDB“libcurl.pdb”(使用“libcurl.lib(spnego_sspi.obj)”或在“D:\Project\TIMSDK\TIMSDK-master\cross-platform\Windows\IMApp\Bin\Win64\Debug\libcurl.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+libcurl.lib(vauth.obj) : warning LNK4099: 未找到 PDB“libcurl.pdb”(使用“libcurl.lib(vauth.obj)”或在“D:\Project\TIMSDK\TIMSDK-master\cross-platform\Windows\IMApp\Bin\Win64\Debug\libcurl.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+libcurl.lib(schannel.obj) : warning LNK4099: 未找到 PDB“libcurl.pdb”(使用“libcurl.lib(schannel.obj)”或在“D:\Project\TIMSDK\TIMSDK-master\cross-platform\Windows\IMApp\Bin\Win64\Debug\libcurl.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+libcurl.lib(schannel_verify.obj) : warning LNK4099: 未找到 PDB“libcurl.pdb”(使用“libcurl.lib(schannel_verify.obj)”或在“D:\Project\TIMSDK\TIMSDK-master\cross-platform\Windows\IMApp\Bin\Win64\Debug\libcurl.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+libcurl.lib(vtls.obj) : warning LNK4099: 未找到 PDB“libcurl.pdb”(使用“libcurl.lib(vtls.obj)”或在“D:\Project\TIMSDK\TIMSDK-master\cross-platform\Windows\IMApp\Bin\Win64\Debug\libcurl.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+  IMApp.vcxproj -> D:\Project\TIMSDK\TIMSDK-master\cross-platform\Windows\IMApp\IMApp\..\Bin\Win64\Debug\IMApp.exe
+  D:\Project\TIMSDK\TIMSDK-master\cross-platform\Windows\IMApp\IMApp\..\ImSDK\lib\Win64\Debug\imsdk.dll
+  已复制         1 个文件。
+  D:\Project\TIMSDK\TIMSDK-master\cross-platform\Windows\IMApp\IMApp\..\res\im.ico
+  D:\Project\TIMSDK\TIMSDK-master\cross-platform\Windows\IMApp\IMApp\..\res\imskin\default.xml
+  D:\Project\TIMSDK\TIMSDK-master\cross-platform\Windows\IMApp\IMApp\..\res\imskin\frame.xml
+  D:\Project\TIMSDK\TIMSDK-master\cross-platform\Windows\IMApp\IMApp\..\res\imskin\login.xml
+  D:\Project\TIMSDK\TIMSDK-master\cross-platform\Windows\IMApp\IMApp\..\res\imskin\menu0.xml
+  D:\Project\TIMSDK\TIMSDK-master\cross-platform\Windows\IMApp\IMApp\..\res\imskin\menu1.xml
+  D:\Project\TIMSDK\TIMSDK-master\cross-platform\Windows\IMApp\IMApp\..\res\imskin\menu2.xml
+  D:\Project\TIMSDK\TIMSDK-master\cross-platform\Windows\IMApp\IMApp\..\res\imskin\menu3.xml
+  D:\Project\TIMSDK\TIMSDK-master\cross-platform\Windows\IMApp\IMApp\..\res\imskin\menu4.xml
+  D:\Project\TIMSDK\TIMSDK-master\cross-platform\Windows\IMApp\IMApp\..\res\imskin\msgbox.xml
+  复制了 10 个文件

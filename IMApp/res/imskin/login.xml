@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Window size="400,300" sizebox="4,4,6,6" caption="0,0,0,30" mininfo="400,300" roundcorner="6,6" bktrans="false" trayiconid="101" traytiptext="IM V1." >
+
+  <VerticalLayout name="background" bkcolor="#FF366CB3" bordercolor="#FF000000" bordersize="1"  childpadding="2" >
+    <VerticalLayout height="30"><!-- 标题栏 -->
+      <Control />
+      <HorizontalLayout height="24">
+        <Container width="24" />
+        <Label name="IM_Title" text="IM V1.0.0.1" endellipsis="true"/>
+        <Control />
+       
+       
+        <Button name="closebtn" text="关闭" />
+        <Control width="8" />
+      </HorizontalLayout>
+    </VerticalLayout>
+    <Control height="4" />
+    <HorizontalLayout padding="6,6,6,6" >
+     
+      
+      <VerticalLayout name="login_view" > <!-- 登入界面 padding="40,4,40,4"-->
+        <Control />
+        <VerticalLayout padding="4,4,4,4" height="130">
+          <HorizontalLayout height="24" padding="40,4,40,4">
+            <Label text="用户名" textpadding="0,2,0,0" font="0" autocalcwidth="false" width="80"/>
+            <Edit  name="userid_edit" width="180" />
+            <!--Combo name="userid_combo" textpadding="0,2,0,0" font="0" autocalcwidth="false" itemalign="center" bkcolor="#FFFFFFFF" visible="true"-->
+          </HorizontalLayout>
+          <HorizontalLayout height="24" padding="40,4,40,4">
+           
+              <Label text="密码" textpadding="0,2,0,0" font="0" autocalcwidth="false" width="80" height="24"/>
+             
+            <Edit  name="userpass_edit" password="true" width="180" />
+            
+          </HorizontalLayout>
+          <HorizontalLayout height="24" padding="40,4,40,4">
+           
+              <Label text="密码" textpadding="0,2,0,0" font="0" autocalcwidth="false" width="80" height="24"/>
+             
+            <Edit  name="userpass_edit_verify" password="true" width="180" />
+            
+          </HorizontalLayout>
+          <Control/>
+        </VerticalLayout>
+        <HorizontalLayout height="40" >
+          <Control />
+          <Button name="login_btn" text="登陆" width="40" height="24" />
+          <Control width="10" />
+          <Button name="register_btn" text="注册" width="40" enabled="false" height="24" />	
+          <Control width="10" />
+          <Button name="uninitsdk_btn" text="退出" width="40" height="24" />	
+          <Control />
+        </HorizontalLayout >
+        <Control />
+      </VerticalLayout>
+      
+
+      
+    </HorizontalLayout>
+  </VerticalLayout>
+</Window>

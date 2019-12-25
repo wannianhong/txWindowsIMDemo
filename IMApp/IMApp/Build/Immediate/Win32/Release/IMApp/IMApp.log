@@ -1,0 +1,19 @@
+﻿  jsoncpp.cpp
+  crashdump.cpp
+  HttpClient.cpp
+C:\Users\hujin\Desktop\TIMSDK\TIMSDK-master\cross-platform\Windows\IMApp\common\HttpClient.cpp(135,27): warning C4018: “<”: 有符号/无符号不匹配
+C:\Users\hujin\Desktop\TIMSDK\TIMSDK-master\cross-platform\Windows\IMApp\common\HttpClient.cpp(202,27): warning C4018: “<”: 有符号/无符号不匹配
+  HttpReportRequest.cpp
+  HttpServer.cpp
+C:\Users\hujin\Desktop\TIMSDK\TIMSDK-master\cross-platform\Windows\IMApp\common\HttpServer.cpp(216,54): warning C4244: “参数”: 从“DWORD”转换到“USHORT”，可能丢失数据
+  IMUtil.cpp
+  log.cpp
+  TaskQueue.cpp
+  GenerateTestUserSig.cpp
+  IMWnd.cpp
+C:\Users\hujin\Desktop\TIMSDK\TIMSDK-master\cross-platform\Windows\IMApp\IMApp\IMWnd.cpp(418,86): error C2039: “getSDKAppID”: 不是“GenerateTestUserSig”的成员
+C:\Users\hujin\Desktop\TIMSDK\TIMSDK-master\cross-platform\Windows\IMApp\IMApp\GenerateTestUserSig.h(24): message : 参见“GenerateTestUserSig”的声明
+  main.cpp
+  MsgBox.cpp
+  TestApi.cpp
+  WndShadow.cpp
